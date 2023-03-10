@@ -1,2 +1,2 @@
 # ObjectDetectionYolo
-<img src="C:\Users\Gamer\Desktop\GIT\P1" alt="detection" width="40" height="40"/>
+<img src="https://github.com/LearnCsWithDIR/ObjectDetectionYolo/blob/master/ss01.png" alt="detection" width="40" height="40"/>
